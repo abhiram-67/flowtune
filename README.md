@@ -1,4 +1,4 @@
-# Flowtune: Your Ultimate Music CompanionFlowtune
+# Flowtune: Your Ultimate Music streaming Companion
 is a state-of-the-art music streaming platform that revolutionizes the way you experience music. Whether you’re a casual listener or a die-hard music enthusiast, Flowtune offers an unparalleled journey through sound, tailored just for you.
 
 # Features
