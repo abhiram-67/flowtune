@@ -28,11 +28,11 @@ git clone https://www.github.com/abhiram-67/flowtune
 ```
 - unzip folder
 ```bash
-cd flowtune
+cd flowtune/source
 unzip flowtune-source.zip
 ```
 
 # screenshots
-![alt text](/assets/b/ss1.png) ![alt text](/assets/b/ss2.png) 
+![alt text](/assets/b/ss1.jpg) ![alt text](/assets/b/ss2.jpg) 
 
 # credits
