@@ -36,3 +36,5 @@ unzip flowtune-source.zip
 ![alt text](/assets/b/ss1.jpg) ![alt text](/assets/b/ss2.jpg) 
 
 # credits
+- Developed by abhiram-67
+- Thanks to vi music         https://github.com/vfsfitvnm/ViMusic.git
