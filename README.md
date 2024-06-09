@@ -17,19 +17,17 @@ is a state-of-the-art music streaming platform that revolutionizes the way you e
 # Downloads
 [<img src="/assets/b/github.png"
 alt="Get it on GitHub"
-height="80">](https://github.com/DanielSevillano/music-you/releases/latest)
+height="80">](https://github.com/abhiram-67/flowtune/releases/latest)
 
 
 
 # Get source
 - clone this repository in your local machine
 ```bash
-git clone https://www.github.com/abhiram-67/flowtune
+git clone https://www.github.com/abhiram-67/repo
 ```
-- unzip folder
 ```bash
-cd flowtune/source
-unzip flowtune-source.zip
+cd repo
 ```
 
 # screenshots
