@@ -13,6 +13,9 @@ is a state-of-the-art music streaming platform that revolutionizes the way you e
 
 
 # Downloads
+[<img src="/assets/b/github.png"
+alt="Get it on GitHub"
+height="80">](https://github.com/DanielSevillano/music-you/releases/latest)
 
 
 
