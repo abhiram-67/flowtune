@@ -1,5 +1,0 @@
-# Get flowtune source
-
-> clone this repo to your local machine
-
-# commands
