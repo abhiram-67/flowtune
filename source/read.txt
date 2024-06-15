@@ -1,3 +1,5 @@
-source moved to another repo 
+# Get flowtune source
 
-get source from:     https://github.com/abhiram-67/repo
+> clone this repo to your local machine
+
+# commands
