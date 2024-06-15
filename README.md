@@ -24,10 +24,10 @@ height="80">](https://github.com/abhiram-67/flowtune/releases/latest)
 # Get source
 - clone this repository in your local machine
 ```bash
-git clone https://www.github.com/abhiram-67/repo
+git clone https://www.github.com/abhiram-67/flowtune
 ```
 ```bash
-cd repo
+Read the file "getsource.txt"  in "/flowtune/source/getsource.txt"
 ```
 
 # screenshots
