@@ -227,6 +227,7 @@ header .container {
 }
 .mail {
   font-weight: bold;
+  color: var(--lightOne);
 }
 .person {
   width: 123%;
