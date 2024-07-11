@@ -361,6 +361,7 @@ header .container {
     max-width: 700px;
     margin: 0 auto;
   }
+  
 
   .showcase-area .container {
     grid-template-columns: 1fr;
