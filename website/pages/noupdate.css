@@ -108,7 +108,9 @@ ul.links li:not(:last-child) {
   justify-content: center;
   align-items: center;
 }
-
+.up {
+  colour: black;
+}
 .links .link-icon i {
   color: black;
 }
